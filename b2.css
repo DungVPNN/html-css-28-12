@@ -1,0 +1,20 @@
+.h3 {
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+    border-style: solid;
+    width: 300px;
+    border-color: lightgray;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.h2{
+    margin-left: 30px;
+}
+.h4{
+    margin-left: 30px;
+}

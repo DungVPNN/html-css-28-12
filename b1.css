@@ -1,0 +1,14 @@
+.Hinhvuong{
+    height: 100px;
+    width: 100px;
+    background: green;
+}
+.Hinhtron{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: red;
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+}

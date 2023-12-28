@@ -1,0 +1,38 @@
+.h1{
+    border-style: solid;  
+    width: 300px;
+    border-color: lightgray;
+}
+.h2{
+    background: whitesmoke;
+    border-style: solid;
+    border-color: whitesmoke;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.h3{
+    border-style: solid;
+    border-color: white;
+    background: white;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-right-radius: 110px;
+    border-top-left-radius: 110px;
+}
+.h4{
+    background: red;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-right-radius: 110px;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.h6{
+    margin-bottom: 50px;
+    border-style: none;
+    margin-left: 25px;
+}
